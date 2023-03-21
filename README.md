@@ -1,2 +1,2 @@
-# MAD_1
-My own basic Web Application
+# Project9
+My rudimentary attempt of a full fledged project
